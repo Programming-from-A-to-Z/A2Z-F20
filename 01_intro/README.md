@@ -21,7 +21,7 @@
 ## JavaScript Workflow (post p5 web editor)
 - [WorkFlow videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zu_uqEA6NqhLzKLACwU74X): Editor, Shell, Node, Git
 
-## Text Mashups
+## "Constrained" Writing / "Algorithmic" Writing
 * "Cut-ups"
   * [Cut-up Method](http://www.writing.upenn.edu/~afilreis/88v/burroughs-cutup.html) from  Leroi Jones, ed., The Moderns: An Anthology of New Writing in America (NY: Corinth Books, 1963).
   * [Cut-up machine](http://www.languageisavirus.com/cutupmachine.html#.VfHCY51Viko)
@@ -42,7 +42,7 @@
 3. Read / watch
     * [Stephanie Dinkins Eyeo Talk](https://vimeo.com/354277038)
     * Virtual Muse excerpt (sent via e-mail)
-4. Find a source text and manually perform one of the mashup techniques described above (or one of your own invention.)  Create a webpage with the results using some combination of HTML, CSS, and/or JavaScript. Host the page online (p5 web editor, glitch, GitHub pages). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc.
+4. Find a source text and manually perform one of the "constrained writing" techniques described above (or one of your own invention.)  Create a webpage with the results using some combination of HTML, CSS, and/or JavaScript. Host the page online (p5 web editor, glitch, GitHub pages). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc.
 
 ## Add your name / link to your assignment below
 *(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)*
