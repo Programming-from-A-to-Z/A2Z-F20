@@ -41,7 +41,7 @@
 1. Accept invitation to class Discord and Google Group mailing list.
 2. Read / watch
     * [Stephanie Dinkins Eyeo Talk](https://vimeo.com/354277038)
-    * Virtual Muse excerpt (sent via e-mail)
+    * Chapter 8 from [Virtual muse experiments in computer poetry, Charles O. Hartman 1949- Project Muse., Hanover, NH : University Press of New England c1996](https://bobcat.library.nyu.edu/permalink/f/ci13eu/nyu_aleph003855006) - login via NYU for access to downloadable PDFs
 4. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!)  Create a webpage with the results using some combination of HTML, CSS, and/or JavaScript. Host the page online (blog post, p5 web editor, Glitch, GitHub pages). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in a [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
 
 ## Add your name / link to your assignment below
