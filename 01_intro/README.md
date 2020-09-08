@@ -39,8 +39,7 @@
 
 ## Assignment
 1. Accept invitation to class Discord and Google Group mailing list.
-2. Add something that inspires you to [this page of references](References).
-3. Read / watch
+2. Read / watch
     * [Stephanie Dinkins Eyeo Talk](https://vimeo.com/354277038)
     * Virtual Muse excerpt (sent via e-mail)
 4. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!)  Create a webpage with the results using some combination of HTML, CSS, and/or JavaScript. Host the page online (blog post, p5 web editor, Glitch, GitHub pages). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in a [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
