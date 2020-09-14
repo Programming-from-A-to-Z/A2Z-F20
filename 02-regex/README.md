@@ -46,7 +46,7 @@ Design an exercise around regular expressions and/or an nlp library (like RiTa o
 * Create a "word replacer" (all words that start with E to words that start with A, all fruits with vegetables, etc.)
 
 ### RiTa
-Investigate [RitaJS](https://github.com/dhowe/RiTaJS) to see what kinds of metadata you can glean from a string.  [Here are a few examples](https://github.com/shiffman/A2Z-F18/tree/master/week2-rita) to get your started.
+Investigate [RitaJS](https://github.com/dhowe/RiTaJS) and [Compromise](https://github.com/spencermountain/compromise) to see what kinds of metadata you can glean from a string.  [Here are a few examples](https://editor.p5js.org/a2zitp/collections/oG3L-OLvGP) to get you started.
 
 ## Data Source / APIs?
 In preparation for next week, add a link to an API or some data source (even just data that appears in raw form on a web page) that interests you. I'll use this list to prepare examples for next week.
