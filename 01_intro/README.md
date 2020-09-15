@@ -49,6 +49,7 @@
 * Name -- [assignment title](assignment url)
 * Brandon Roots -- [RhymeTime](http://brandonroots.com/itp/fall2020/rhymetime/rhymetime.html)
 * Martin Martin -- [The We Didn't Start It Story Teller](https://www.martinsquared.com/2020/09/12/the-we-didnt-start-it-story-teller/)
+* Julie Lizardo -- [Verb Flip](https://verb-flip.glitch.me/)
 * Youming Zhang -- [The Great Gatsby](https://medium.com/@youmingzhang19/the-great-gatsby-b28362ded6e0)
 * Helen Zegarra -- [Random Poem Generator](https://texaotech.wordpress.com/2020/09/14/random-poem-generator/)
 * KJ Ha — [Queer Poem Generator](https://www.kyungjooha.com/post/queer-poem-generator/)
