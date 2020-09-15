@@ -55,6 +55,7 @@
 * KJ Ha — [Queer Poem Generator](https://www.kyungjooha.com/post/queer-poem-generator/)
 * Beste Saylar -- [NY 2 IST post](https://www.bestesaylar.com/programming-a2z), [NY 2 IST on glitch](https://sheer-lilac-baroness.glitch.me/)
 * Elizabeth Pérez -- [Erasure as visibility?](https://brujatech.wordpress.com/2020/09/15/erasure-as-a-visibility/)
+* Simone Salvo -- [Interpreting Appearance, an Erasure Poem] (https://editor.p5js.org/simonesalvo/full/9TZv5rTz2)
 * Ahmad Arshad -- [Odds and Evens] (https://dev1.ed-projects.nyu.edu/geotools/2020/09/15/constrained-writing-algorithmic-writing-on-rumi/)
 * Jan Suphitcha -- [folding as a cut-up technique](http://www.jayspaper.com/blog/2020/9/15/a2z-week-1-)
 * Lynne Yun -- [Meanwhile in San Francisco Mash-up](https://editor.p5js.org/lynneyun/present/gshhmGEGh)
