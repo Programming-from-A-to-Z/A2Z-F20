@@ -54,3 +54,4 @@
 * Helen Zegarra -- [Random Poem Generator](https://texaotech.wordpress.com/2020/09/14/random-poem-generator/)
 * KJ Ha — [Queer Poem Generator](https://www.kyungjooha.com/post/queer-poem-generator/)
 * Beste Saylar -- [NY 2 IST post](https://www.bestesaylar.com/programming-a2z), [NY 2 IST on glitch](https://sheer-lilac-baroness.glitch.me/)
+* Elizabeth Pérez -- [Erasure as visibility?](https://brujatech.wordpress.com/2020/09/15/erasure-as-a-visibility/)
