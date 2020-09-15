@@ -51,3 +51,4 @@
 * Martin Martin -- [The We Didn't Start It Story Teller](https://www.martinsquared.com/2020/09/12/the-we-didnt-start-it-story-teller/)
 * Youming Zhang -- [The Great Gatsby](https://medium.com/@youmingzhang19/the-great-gatsby-b28362ded6e0)
 * KJ Ha — [Queer Poem Generator](https://www.kyungjooha.com/post/queer-poem-generator/)
+* Beste Saylar -- [NY 2 IST post](https://www.bestesaylar.com/programming-a2z), [NY 2 IST on glitch](https://sheer-lilac-baroness.glitch.me/)
