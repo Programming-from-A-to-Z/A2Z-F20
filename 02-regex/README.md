@@ -36,7 +36,7 @@ Design an exercise around regular expressions. Here are some ideas if you are fe
 * Chop up a text into words using `split()` and rebuild the text as separate `<span>` elements that you can interact with individually.  [Here is example code](https://editor.p5js.org/codingtrain/sketches/Jr3zCQw-9) from [this video](https://thecodingtrain.com/CodingChallenges/038-word-interactor.html).
 * Create a programmatic version of the algorithm you developed for [the constrained writing exercise](https://docs.google.com/presentation/d/18-eQtpSXKcMdvFuk9ub1yjY-2zW5T067R0o34BT9BTM/edit?usp=sharing).
 * The [Flesch Index](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) is a "reading level" score for a passage in English. Here is a [p5 sketch that calculate the Flesch Index](https://editor.p5js.org/a2zitp/sketches/OQx3A3Sa0) for a body of text. How could this be improved / changed with regular expressions? 
-* Create a mad libs generator. For reference here is a video about making Mad Libs with p5.js](https://thecodingtrain.com/CodingChallenges/039-madlibs.html)!
+* Create a mad libs generator. For reference [here is a video about making Mad Libs with p5.js](https://thecodingtrain.com/CodingChallenges/039-madlibs.html)!
 * Create a "word replacer" (all words that start with E to words that start with A, all fruits with vegetables, etc.)
 
 ## Data and APIs
