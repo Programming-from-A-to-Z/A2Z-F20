@@ -10,6 +10,7 @@
 ### Notes and Videos
 - [2016 Notes and Examples](http://shiffman.net/a2z/regex/)
 - [Regular Expression Video Tutorials](https://www.youtube.com/watch?v=7DG3kCDx53c&list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+- [Chapter 9: Regular Expressions](https://eloquentjavascript.net/09_regexp.html) from [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke.
 - [Introducing Regular Expressions: JavaScript and TypeScript](https://learning-oreilly-com.proxy.library.nyu.edu/library/view/introducing-regular-expressions/9781484225080/A434767_1_En_1_Chapter.html) by Jörg Krause. (This is the full book! If you prefer this to the videos I recommend chapters 1-3)
 
 ### JavaScript Regex functions
