@@ -14,6 +14,11 @@
 * [Corpora maintained by tinysubversions](https://github.com/dariusk/corpora)
 * [loadJSON()](https://p5js.org/reference/#/p5/loadJSON)
 
+### Dictionary / Lexicon / Word Finding APIs
+* [Data Muse](https://www.datamuse.com/api/)
+* [Wordnik](https://www.wordnik.com/)
+* [Wordnet](https://wordnet.princeton.edu/)
+
 ### APIs
 * [p5.js web editor code examples](https://editor.p5js.org/a2zitp/collections/cgfJWhpsE)
 * [2015 Wordnik Video Tutorial](https://youtu.be/YsgdUaOrFnQ), [wordnik docs](http://developer.wordnik.com/)
