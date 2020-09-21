@@ -49,3 +49,4 @@ In preparation for next week, add a link to a data source or API (even just data
 *(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)*
 * Name -- [assignment title](assignment url)
 * Julie Lizardo -- [Regex Expressions](https://julielizardo.com/2020/09/17/regex-expressions/)
+* KJ Ha -- [Random Sentence Generator](https://gist.github.com/TTurbo0824/34c45efd7ca18e9ab082eb97d0179f66)
