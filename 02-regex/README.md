@@ -61,3 +61,4 @@ In preparation for next week, add a link to a data source or API (even just data
 * Fanyi Pan -- [Regex](https://fanyipan.wordpress.com/2020/09/21/regular-expression/)
 * Tianxu Zhou -- [Regex Experiments](https://tianxuzhoublabla.wordpress.com/2020/09/22/week02-regex-experiments/)
 * Lynne Yun -- [Falling Into the Regex Maze](www.lynneyun.com/fall-20-a2z/2020/9/21/falling-into-the-regex-maze)
+* Zeyao Li -- [Learning Regex](https://zeyao.online/Learning-Regex-4edf3e60358747db81944fbca8bebee3)
