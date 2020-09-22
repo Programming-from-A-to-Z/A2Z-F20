@@ -47,6 +47,7 @@ In preparation for next week, add a link to a data source or API (even just data
 * [Google Cloud Text-to-Speech API](https://cloud.google.com/text-to-speech)
 * [Dark Sky API, The easiest, most advanced, weather API on the web.]( https://rapidapi.com/darkskyapis/api/dark-sky)
 * [Brooklyn Museum Opencollection API](https://www.brooklynmuseum.org/opencollection/api) 
+* [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/)
 
 ## Add your assignment below via Pull Request
 *(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)*
@@ -57,5 +58,6 @@ In preparation for next week, add a link to a data source or API (even just data
 * Helen Zegarra -- [Playing with Regular Expressions](https://texaotech.wordpress.com/2020/09/21/playing-with-regular-expressions/)
 * KJ Ha -- [Random Sentence Generator](https://gist.github.com/TTurbo0824/34c45efd7ca18e9ab082eb97d0179f66)
 * Elizabeth Pérez -- [Regex is, well a lot!](https://brujatech.wordpress.com/2020/09/21/regex-is-well-a-lot/)
+* Fanyi Pan -- [Regex](https://fanyipan.wordpress.com/2020/09/21/regular-expression/)
 * Tianxu Zhou -- [Regex Experiments](https://tianxuzhoublabla.wordpress.com/2020/09/22/week02-regex-experiments/)
 * Lynne Yun -- [Falling Into the Regex Maze](www.lynneyun.com/fall-20-a2z/2020/9/21/falling-into-the-regex-maze)
