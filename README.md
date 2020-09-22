@@ -19,7 +19,7 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 2 - [Regular Expressions](02-regex), Sep 15
 
-### Week 3 - [Data and APIs](03-data), Sep 22
+### Week 3 - [Data and APIs](03-apis), Sep 22
 
 ### Week 4 - [Bots Part 1](04-bots-discord), Sep 29
 
