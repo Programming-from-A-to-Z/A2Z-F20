@@ -57,4 +57,5 @@ In preparation for next week, add a link to a data source or API (even just data
 * Helen Zegarra -- [Playing with Regular Expressions](https://texaotech.wordpress.com/2020/09/21/playing-with-regular-expressions/)
 * KJ Ha -- [Random Sentence Generator](https://gist.github.com/TTurbo0824/34c45efd7ca18e9ab082eb97d0179f66)
 * Elizabeth Pérez -- [Regex is, well a lot!](https://brujatech.wordpress.com/2020/09/21/regex-is-well-a-lot/)
+* Tianxu Zhou -- [Regex Experiments](https://tianxuzhoublabla.wordpress.com/2020/09/22/week02-regex-experiments/)
 * Lynne Yun -- [Falling Into the Regex Maze](www.lynneyun.com/fall-20-a2z/2020/9/21/falling-into-the-regex-maze)
