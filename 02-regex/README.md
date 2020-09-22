@@ -45,9 +45,12 @@ In preparation for next week, add a link to a data source or API (even just data
 * [NYC Open Data: Public Recycling Bins](https://data.cityofnewyork.us/resource/sxx4-xhzg.json)
 * [Leaflet API: an open-source JavaScript library for mobile-friendly interactive maps](https://leafletjs.com/reference-1.7.1.html)
 * [Dark Sky API, The easiest, most advanced, weather API on the web.]( https://rapidapi.com/darkskyapis/api/dark-sky)
+* [Brooklyn Museum Opencollection API](https://www.brooklynmuseum.org/opencollection/api) 
 
 ## Add your assignment below via Pull Request
 *(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)*
 * Name -- [assignment title](assignment url)
 * Julie Lizardo -- [Regex Expressions](https://julielizardo.com/2020/09/17/regex-expressions/)
 * Helen Zegarra -- [Playing with Regular Expressions](https://texaotech.wordpress.com/2020/09/21/playing-with-regular-expressions/)
+* KJ Ha -- [Random Sentence Generator](https://gist.github.com/TTurbo0824/34c45efd7ca18e9ab082eb97d0179f66)
+* Elizabeth Pérez -- [Regex is, well a lot!](https://brujatech.wordpress.com/2020/09/21/regex-is-well-a-lot/)

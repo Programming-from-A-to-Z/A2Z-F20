@@ -60,3 +60,4 @@
 * Jan Suphitcha -- [folding as a cut-up technique](http://www.jayspaper.com/blog/2020/9/15/a2z-week-1-)
 * Lynne Yun -- [Meanwhile in San Francisco Mash-up](https://editor.p5js.org/lynneyun/present/gshhmGEGh)
 * Fanyi Pan -- [Singer's Poem](https://fanyipan.wordpress.com/2020/09/15/singers-poem/)
+* DonNan -- [Acrostic Poem](https://wp.nyu.edu/tischschoolofthearts-donnan/2020/09/15/a2z-homework-1/)
