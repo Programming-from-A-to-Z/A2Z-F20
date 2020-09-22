@@ -64,3 +64,4 @@ In preparation for next week, add a link to a data source or API (even just data
 * Zeyao Li -- [Learning Regex](https://zeyao.online/Learning-Regex-4edf3e60358747db81944fbca8bebee3)
 * Ahmad Arshad -- [Irregular Expressions](https://dev1.ed-projects.nyu.edu/geotools/2020/09/22/irregular-expressions)
 * Martin Martin -- [Playing with RegEx Soup](https://www.martinsquared.com/2020/09/20/playing-with-regex-soup/)
+* Simone Salvo -- [Regex | Regular Expressions](https://www.simonesalvo.com/itp-portfolio/2020/9/20/regex)
