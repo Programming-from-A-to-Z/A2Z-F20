@@ -26,10 +26,6 @@
 * [2019 Working with Data and APIs video series](https://youtu.be/tc8DU14qX6I?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X) - 1: Client Side Basics
 * [What is JSON? Video 1](https://youtu.be/_NFkzw6oFtQ?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r), [What is JSON Video 2](https://youtu.be/118sDpLOClw?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 
-### Google Sheets
-* Working with google sheets: [tabletop.js](https://github.com/jsoma/tabletop)
-* [p5.js Mad Libs generator video tutorial]((https://thecodingtrain.com/CodingChallenges/039-madlibs.html)!)
-
 ## Reading
 * [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai/) by Kate Crawford and Trevor Paglen
 * [The Point of Collection](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p) by Mimi Onuoha (see: [Missing Datasets](https://github.com/MimiOnuoha/missing-datasets))
