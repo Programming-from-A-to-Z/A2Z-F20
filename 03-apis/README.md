@@ -65,3 +65,4 @@
 *(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)*
 * Martin Martin -- [Working with JSON, RiTa, and Lincoln](https://www.martinsquared.com/2020/09/28/working-with-json-rita-and-lincoln/)
 * Youming Zhang --[Joke Data](https://github.com/yzhang33/data_api/tree/master)
+* Julie Lizardo --[Corpora + BodyPix](https://wordpress.com/block-editor/post/julielizardo.com/1551)
