@@ -59,7 +59,7 @@
     * What is the origin of the data?
     * Who had the power to collect, label, and make available the data?
     * If you had to create a "data biography" (Thank you to Ellen Nickles for this term), what would you include? Have the maintainers of this dataset or API made this information easily available?
-    * What potential harms could result, especially to marginalized communities?
+    * What potential harms could result from the collection, use (or misue) of the data, especially to marginalized communities?
 
 ## Add your assignment below via Pull Request
 *(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)*
