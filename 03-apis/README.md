@@ -67,3 +67,4 @@
 * Youming Zhang --[Joke Data](https://github.com/yzhang33/data_api/tree/master)
 * Julie Lizardo --[Corpora + BodyPix](https://julielizardo.com/2020/09/28/corpora-bodypix/)
 * Helen Zegarra --[Exploring APIs](https://texaotech.wordpress.com/2020/09/28/exploring-apis/)
+* KJ Ha -- [Lyrics Replaced](https://www.kyungjooha.com/post/lyrics-replaced)
