@@ -73,3 +73,4 @@
 * Minyoung Bang -- [APIs+RiTa](http://wp.nyu.edu/minyoungbang/p2z_week3/)
 * Zeyao Li -- [Next Job Hunter](https://next-job-hunter.glitch.me/)
 * Beste Saylar -- [Working with API's](https://www.bestesaylar.com/programming-a2z), https://github.com/bestesaylar/Speech2Text, https://github.com/bestesaylar/covid19
+* Brandon Roots -- [Redacting The US Constitution](http://brandonroots.com/2020/09/28/the-constitution/)
