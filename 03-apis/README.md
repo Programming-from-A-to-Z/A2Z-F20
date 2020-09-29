@@ -68,3 +68,4 @@
 * Julie Lizardo --[Corpora + BodyPix](https://julielizardo.com/2020/09/28/corpora-bodypix/)
 * Helen Zegarra --[Exploring APIs](https://texaotech.wordpress.com/2020/09/28/exploring-apis/)
 * KJ Ha -- [Lyrics Replaced](https://www.kyungjooha.com/post/lyrics-replaced)
+* Fanyi Pan -- [Word of The Day](https://fanyipan.wordpress.com/2020/09/29/wordnik/)
