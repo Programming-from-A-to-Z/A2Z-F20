@@ -68,5 +68,6 @@
 * Julie Lizardo --[Corpora + BodyPix](https://julielizardo.com/2020/09/28/corpora-bodypix/)
 * Helen Zegarra --[Exploring APIs](https://texaotech.wordpress.com/2020/09/28/exploring-apis/)
 * KJ Ha -- [Lyrics Replaced](https://www.kyungjooha.com/post/lyrics-replaced)
+* Minyoung Bang -- [APIs+RiTa](http://wp.nyu.edu/minyoungbang/p2z_week3/)
 * Zeyao Li -- [Next Job Hunter](https://next-job-hunter.glitch.me/)
 * Beste Saylar[Working with API's](https://www.bestesaylar.com/programming-a2z),(https://github.com/bestesaylar/Speech2Text),(https://github.com/bestesaylar/covid19)
