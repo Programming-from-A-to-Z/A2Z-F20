@@ -72,4 +72,4 @@
 * Fanyi Pan -- [Word of The Day](https://fanyipan.wordpress.com/2020/09/29/wordnik/)
 * Minyoung Bang -- [APIs+RiTa](http://wp.nyu.edu/minyoungbang/p2z_week3/)
 * Zeyao Li -- [Next Job Hunter](https://next-job-hunter.glitch.me/)
-* Beste Saylar[Working with API's](https://www.bestesaylar.com/programming-a2z),(https://github.com/bestesaylar/Speech2Text),(https://github.com/bestesaylar/covid19)
+* Beste Saylar -- [Working with API's](https://www.bestesaylar.com/programming-a2z), https://github.com/bestesaylar/Speech2Text, https://github.com/bestesaylar/covid19
