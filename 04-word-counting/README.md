@@ -16,10 +16,13 @@
 * 🍿 [The Secret Life of Pronouns: James Pennebaker at TEDxAustin](https://www.youtube.com/watch?v=PGsQwAu3PzU)
 * 🍿 [Overview of Word Counting + Text Analysis](https://youtu.be/tE-ZYXU8A8U)
 
-## Video Tutorials
+## Word Counting Basics
 * 🚨 [Associative Arrays in JavaScript](https://youtu.be/_5jdE6RKxVk?list=PLRqwX-V7Uu6bZQkJcGM5S9fn9R9Yyd8iZ)
 * 🚨 [Word Counting in JavaScript](https://youtu.be/unm0BLor8aE)
     * 💻 [p5.js word counting sketch](https://editor.p5js.org/codingtrain/sketches/icFi8MF7N)
+    * 💻 [p5.js word counting visualization edits from class](https://editor.p5js.org/a2zitp/sketches/DALOdSi07)
+* 💻 [Additional p5.js word counting visualization](https://editor.p5js.org/a2zitp/sketches/50rBhpEsT)
+* 💻 [p5.js word counting two documents visualization](https://editor.p5js.org/a2zitp/sketches/uyLWWpQKB)
 
 ### Creative Inspiration
 * 🔗 [SPEECH COMPARISON](http://www.runemadsen.com/work/speech-comparison/) by Rune Madsen
@@ -43,7 +46,7 @@
 * 💻 [Sample start of Bayesian Classification Library](https://github.com/shiffman/bayes-classifier-js)
 
 ## Reading
-* [Algorithms of Oppression : How Search Engines Reinforce Racism](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4834260), Chapter 1: A Society Searching, by Safiya Umoja Noble,
+* 🚨 [Algorithms of Oppression : How Search Engines Reinforce Racism](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4834260), Chapter 1: A Society Searching, by Safiya Umoja Noble,
 
 ## Assignment
 * TBD
