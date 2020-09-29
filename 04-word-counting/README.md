@@ -16,10 +16,13 @@
 * 🍿 [The Secret Life of Pronouns: James Pennebaker at TEDxAustin](https://www.youtube.com/watch?v=PGsQwAu3PzU)
 * 🍿 [Overview of Word Counting + Text Analysis](https://youtu.be/tE-ZYXU8A8U)
 
-## Video Tutorials
+## Word Counting Basics
 * 🚨 [Associative Arrays in JavaScript](https://youtu.be/_5jdE6RKxVk?list=PLRqwX-V7Uu6bZQkJcGM5S9fn9R9Yyd8iZ)
 * 🚨 [Word Counting in JavaScript](https://youtu.be/unm0BLor8aE)
     * 💻 [p5.js word counting sketch](https://editor.p5js.org/codingtrain/sketches/icFi8MF7N)
+    * 💻 [p5.js word counting visualization edits from class](https://editor.p5js.org/a2zitp/sketches/DALOdSi07)
+* 💻 [Additional p5.js word counting visualization](https://editor.p5js.org/a2zitp/sketches/50rBhpEsT)
+* 💻 [p5.js word counting two documents visualization](https://editor.p5js.org/a2zitp/sketches/uyLWWpQKB)
 
 ### Creative Inspiration
 * 🔗 [SPEECH COMPARISON](http://www.runemadsen.com/work/speech-comparison/) by Rune Madsen
@@ -27,6 +30,7 @@
 * 🔗 [Word Tree](http://hint.fm/projects/wordtree/) by Martin Wattenberg and Fernanda Viegas
 * 🔗 [Entangled Word Bank](http://www.stefanieposavec.com/entangled-word-bank) by Stephanie Posavec
 * 🔗 [Annual Report 2013](http://feltron.com/FAR13.html) by Nicholas Feltron
+* 🔗 [Partisan Thesauras](http://partisanthesaurus.com/) by Melanie Hoff
 
 ## Text Analysis
 
@@ -43,10 +47,17 @@
 * 💻 [Sample start of Bayesian Classification Library](https://github.com/shiffman/bayes-classifier-js)
 
 ## Reading
-* [Algorithms of Oppression : How Search Engines Reinforce Racism](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4834260), Chapter 1: A Society Searching, by Safiya Umoja Noble,
+* 🚨 [Algorithms of Oppression: How Search Engines Reinforce Racism](https://ebookcentral-proquest-com.proxy.library.nyu.edu/lib/nyulibrary-ebooks/detail.action?docID=4834260), Chapter 1: A Society Searching, by Safiya Umoja Noble,
 
 ## Assignment
-* TBD
+Choose a text or data source and count word frequencies following the examples above. Design your own creative output. This need not be visual (sonify word counts?) nor does it require code (knit your own word frequency scarf! Some things to consider:
+* Use a language other than English!
+* What happens if you compare different texts according to word frequency?
+* Can you look at frequency of how words appear next to each other?
+
+Reflect on your process of word counting and consider the following questions in a blog post:
+* Did you discover anything new about the text by counting words?
+* What is lost from word counting?
 
 ## Add your assignment below via Pull Request
 *(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)
