@@ -66,3 +66,4 @@
 * Martin Martin -- [Working with JSON, RiTa, and Lincoln](https://www.martinsquared.com/2020/09/28/working-with-json-rita-and-lincoln/)
 * Youming Zhang --[Joke Data](https://github.com/yzhang33/data_api/tree/master)
 * Helen Zegarra --[Exploring APIs](https://texaotech.wordpress.com/2020/09/28/exploring-apis/)
+* Julie Lizardo --[Corpora + BodyPix](https://wordpress.com/block-editor/post/julielizardo.com/1551)
