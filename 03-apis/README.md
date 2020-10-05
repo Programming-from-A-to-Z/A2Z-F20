@@ -77,3 +77,4 @@
 * Tracey Shi -- [Spotify API](http://wp.nyu.edu/tianyeeee/programming-a-z/)
 * Simone Salvo -- [Politics of Images––an article proposal](https://docs.google.com/document/d/1KNHKlAbREi7W3srQfpAFN7ZvbB1q53Y8dvvaJMWeMBQ/edit?usp=sharing)
 * Tianxu Zhou -- [API Experiments](https://tianxuzhoublabla.wordpress.com/2020/09/29/week03-api-experiments/)
+* Elizabeth Pérez -- [(re)Familiarizing myself with APIs + RiTa?](https://brujatech.wordpress.com/2020/10/05/refamiliarizing-myself-with-apis-rita/)
