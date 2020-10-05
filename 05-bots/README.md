@@ -14,13 +14,14 @@
 
 ## Node.js
 * 🚨 [Workflow: console/terminal/shell](https://youtu.be/FnkkzgYuXUM)
-* 🚨 [Workflow: node.js] [](https://youtu.be/FjWbUK2HdCo)
+* 🚨 [Workflow: node.js](https://youtu.be/FjWbUK2HdCo)
 * 🍿 [What is Node.js? - Twitter Bot Tutorial](https://youtu.be/RF5_MPSNAtU)
 * 🍿 [Server-side with Node.js - Working with Data and APIs in JavaScript](https://youtu.be/wxbQP1LMZsw?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
 
 ## Discord API
+* 💻 [example bot code and steps to follow](https://github.com/shiffman/Discord-Bot-A2Z)
 * 📕 [discord.js guide](https://discordjs.guide/)
-* 🔗 [Coding Garden example Discord Bot](https://github.com/CodingGarden/intro-discord-bot)
+* 💻 [Coding Garden example Discord Bot](https://github.com/CodingGarden/intro-discord-bot)
 * 🍿 [Coding Garden Discord Bot live stream](https://youtu.be/gzM7kj6gV5I)
 
 ## Twitter API
@@ -39,7 +40,6 @@
 ## Bot Project
 Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/), [Twitter](http://twitter.com/), and [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software)) but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
 
-gi
 ## Emoji Key for Video Tutorials, Readings, and more
 * 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
 * 🔢 This is found in a group, maybe pick just one to check out!
