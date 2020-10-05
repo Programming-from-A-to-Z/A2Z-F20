@@ -66,3 +66,5 @@ Reflect on your process of word counting and consider the following questions in
 *(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)
 
 Julie Lizardo -- [2020 Presidential Debate Analysis](https://julielizardo.com/2020/10/04/2020-presidential-debate-analysis/)
+
+KJ Ha -- [Lyrics Visualizer](https://www.kyungjooha.com/post/lyrics-visualizer)
