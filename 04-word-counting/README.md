@@ -67,3 +67,4 @@ Reflect on your process of word counting and consider the following questions in
 * Julie Lizardo -- [2020 Presidential Debate Analysis](https://julielizardo.com/2020/10/04/2020-presidential-debate-analysis/)
 * KJ Ha -- [Lyrics Visualizer](https://www.kyungjooha.com/post/lyrics-visualizer)
 * Martin Martin -- [The Syllabi and by – Fall 2020](https://www.martinsquared.com/2020/10/04/the-syllabi-and-by-fall-2020/)
+* Beste Saylar -- [Word Cloud](https://www.bestesaylar.com/programming-a2z)
