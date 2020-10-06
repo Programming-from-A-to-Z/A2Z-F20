@@ -76,3 +76,4 @@ Reflect on your process of word counting and consider the following questions in
 * Tianxu Zhou -- [Amazon Review](https://tianxuzhoublabla.wordpress.com/2020/10/06/week04-word-count-amazon-review/)
 * Zeyao Li -- [Love Words](https://zeyao.online/Love-Words-c25d2db1a8084fcf9c2e61139cb2ee1c)
 * Youming Zhang -- [Word Count App](https://github.com/yzhang33/word-count)
+* Lynne Yun -- [Exploring Word Count](https://github.com/lynneyun/ITP-Documentation/blob/master/Programming_from_A_to_Z/Session04/WordCounting.md)
