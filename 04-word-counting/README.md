@@ -68,3 +68,4 @@ Reflect on your process of word counting and consider the following questions in
 * KJ Ha -- [Lyrics Visualizer](https://www.kyungjooha.com/post/lyrics-visualizer)
 * Martin Martin -- [The Syllabi and by – Fall 2020](https://www.martinsquared.com/2020/10/04/the-syllabi-and-by-fall-2020/)
 * Beste Saylar -- [Word Cloud](https://www.bestesaylar.com/programming-a2z/2020/10/2/word-cloud)
+* Helen Zegarra --[Falling words](https://texaotech.wordpress.com/2020/10/06/falling-words/)
