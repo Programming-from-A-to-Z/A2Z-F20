@@ -71,3 +71,7 @@ Reflect on your process of word counting and consider the following questions in
 * Helen Zegarra --[Falling words](https://texaotech.wordpress.com/2020/10/06/falling-words/)
 * Tracey Shi -- [winnie the pooh](http://wp.nyu.edu/tianyeeee/programming-a-z/)
 * DonNan Dai -- [Word Explore](https://wp.nyu.edu/tischschoolofthearts-donnan/2020/10/06/word-explore/)
+* Brandon Roots -- [(Presidential)? Debate](http://brandonroots.com/2020/10/06/word-counting/)
+* Tianxu Zhou -- [Amazon Review](https://tianxuzhoublabla.wordpress.com/2020/10/06/week04-word-count-amazon-review/)
+* Zeyao Li -- [Love Words](https://zeyao.online/Love-Words-c25d2db1a8084fcf9c2e61139cb2ee1c)
+* Youming Zhang -- [Word Count App](https://github.com/yzhang33/word-count)
