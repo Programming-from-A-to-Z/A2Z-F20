@@ -32,12 +32,11 @@
 * 📕 [Twitter: Automation rules and best practices](https://support.twitter.com/articles/76915)
 
 ## Reading
-
-* [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) by Allison Parrish
-* 📚 [12 Weird, Excellent Twitter Bots Chosen by Twitter’s Best Bot-Makers](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)
+* 📕 [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) by Allison Parrish
 * 📚 [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/)
 * 📚 [How to Make a Bot That Isn't Racist](https://www.vice.com/en/article/mg7g3y/how-to-make-a-not-racist-bot)
 * 📚 [Queer Your Bots: The Bot Builder Roundtable](http://www.autostraddle.com/queer-your-bots-the-bot-builder-roundtable-333806/)
+* 📚 [12 Weird, Excellent Twitter Bots Chosen by Twitter’s Best Bot-Makers](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)
 
 ## Bot Project
 Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/), [Twitter](http://twitter.com/), and [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software)) but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
