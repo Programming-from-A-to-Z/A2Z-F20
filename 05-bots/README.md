@@ -38,8 +38,16 @@
 * 📚 [Queer Your Bots: The Bot Builder Roundtable](http://www.autostraddle.com/queer-your-bots-the-bot-builder-roundtable-333806/)
 * 📚 [12 Weird, Excellent Twitter Bots Chosen by Twitter’s Best Bot-Makers](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)
 
-## Bot Project
+## Bot Project, Due Tuesday October 20
 Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/), [Twitter](http://twitter.com/), and [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software)) but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
+
+Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots, embedded tweets. Consider the following three questions in your post:
+    * [QUESTIONS TO COME!]
+
+Prepare a 5 minute presentation on your bot to give over Zoom w/ screen sharing on Tuesday, Oct 20th.
+
+## Add your assignment below via Pull Request
+*(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)*
 
 ## Emoji Key for Video Tutorials, Readings, and more
 * 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
