@@ -63,6 +63,18 @@ Reflect on your process of word counting and consider the following questions in
 * Challenge the assumption that algorithms for analyzing text (such as word counting) are neutral.
 
 ## Add your assignment below via Pull Request
-*(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)
-
-Julie Lizardo -- [2020 Presidential Debate Analysis](https://julielizardo.com/2020/10/04/2020-presidential-debate-analysis/)
+*(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)*
+* Julie Lizardo -- [2020 Presidential Debate Analysis](https://julielizardo.com/2020/10/04/2020-presidential-debate-analysis/)
+* KJ Ha -- [Lyrics Visualizer](https://www.kyungjooha.com/post/lyrics-visualizer)
+* Martin Martin -- [The Syllabi and by – Fall 2020](https://www.martinsquared.com/2020/10/04/the-syllabi-and-by-fall-2020/)
+* Beste Saylar -- [Word Cloud](https://www.bestesaylar.com/programming-a2z/2020/10/2/word-cloud)
+* Helen Zegarra --[Falling words](https://texaotech.wordpress.com/2020/10/06/falling-words/)
+* Tracey Shi -- [winnie the pooh](http://wp.nyu.edu/tianyeeee/programming-a-z/)
+* Minyoung Bang -- [Rected Words](http://wp.nyu.edu/minyoungbang/p2z_week4/)
+* DonNan Dai -- [Word Explore](https://wp.nyu.edu/tischschoolofthearts-donnan/2020/10/06/word-explore/)
+* Brandon Roots -- [(Presidential)? Debate](http://brandonroots.com/2020/10/06/word-counting/)
+* Tianxu Zhou -- [Amazon Review](https://tianxuzhoublabla.wordpress.com/2020/10/06/week04-word-count-amazon-review/)
+* Zeyao Li -- [Love Words](https://zeyao.online/Love-Words-c25d2db1a8084fcf9c2e61139cb2ee1c)
+* Youming Zhang -- [Word Count App](https://github.com/yzhang33/word-count)
+* Lynne Yun -- [Exploring Word Count](https://github.com/lynneyun/ITP-Documentation/blob/master/Programming_from_A_to_Z/Session04/WordCounting.md)
+* Simone Salvo -- [Lost in Transcription](https://www.simonesalvo.com/itp-portfolio/2020/10/6/lost-in-transcription)
