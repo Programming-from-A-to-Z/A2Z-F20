@@ -67,3 +67,4 @@ In preparation for next week, add a link to a data source or API (even just data
 * Tracey shi -- [REGEX Blog](https://wp.nyu.edu/tianyeeee/programming-a-z/)
 * Martin Martin -- [Playing with RegEx Soup](https://www.martinsquared.com/2020/09/20/playing-with-regex-soup/)
 * Simone Salvo -- [Regex | Regular Expressions](https://www.simonesalvo.com/itp-portfolio/2020/9/20/regex)
+* Jan Suphitcha -- [Regex](http://www.jayspaper.com/blog/2020/9/28/a2z-regular-expression)
