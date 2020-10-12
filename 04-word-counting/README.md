@@ -78,3 +78,4 @@ Reflect on your process of word counting and consider the following questions in
 * Youming Zhang -- [Word Count App](https://github.com/yzhang33/word-count)
 * Lynne Yun -- [Exploring Word Count](https://github.com/lynneyun/ITP-Documentation/blob/master/Programming_from_A_to_Z/Session04/WordCounting.md)
 * Simone Salvo -- [Lost in Transcription](https://www.simonesalvo.com/itp-portfolio/2020/10/6/lost-in-transcription)
+* Jan Suphitcha -- [Word Counting](http://www.jayspaper.com/blog/2020/10/11/a2z-word-count)
