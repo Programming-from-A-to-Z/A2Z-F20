@@ -26,6 +26,7 @@
 
 ## Twitter API
 * 📈 [TwitterBot Slides](https://docs.google.com/presentation/d/1rL95AggCb0EG6sBhZ47OWWgI_t7Hllqbyt4AnD2c3-4/edit?usp=sharing)
+* 💻 [2020 Twitter Bot node.js example code](https://github.com/shiffman/Twitter-Bot-A2Z)
 * 📚 [2016 Notes on Twitter Bots](http://shiffman.net/a2z/twitter-bots/)
   * 📚 [Notes on deploy to heroku](http://shiffman.net/a2z/bot-heroku/)
   * 📚 [Notes on deploy to amazon ec2](http://shiffman.net/a2z/bot-ec2/)
