@@ -31,6 +31,9 @@
   * 📚 [Notes on deploy to amazon ec2](http://shiffman.net/a2z/bot-ec2/)
 * 📕 [Twitter: Automation rules and best practices](https://support.twitter.com/articles/76915)
 
+## Bot Code of Conduct
+* 🌈 [Slides for Bot Ethics in Practice Workshop](https://docs.google.com/presentation/d/1ugYkvbtydBdG5E-N7Bm73O1ry4NOxnVnB8BEGjdh9jQ/edit#slide=id.ga0dd3dd32b_0_228)
+
 ## Reading
 * 📕 [Bots: A definition and some historical threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) by Allison Parrish
 * 📕 [How to Make a Bot That Isn't Racist](https://www.vice.com/en/article/mg7g3y/how-to-make-a-not-racist-bot)
