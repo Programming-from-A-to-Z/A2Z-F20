@@ -46,8 +46,7 @@
 ## Bot Project, Due Tuesday October 20
 Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](https://discord.com/), [Twitter](http://twitter.com/), and [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software)) but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
 
-Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots, embedded tweets. Consider the following three questions in your post:
-    * [QUESTIONS TO COME!]
+Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots, embedded tweets. Reflect on the [Bot Code of Conduct](https://github.com/shiffman/Bot-Code-of-Conduct/blob/main/README.md) and what ethical questions you considered as part of your process.
 
 Prepare a 5 minute presentation on your bot to give over Zoom w/ screen sharing on Tuesday, Oct 20th.
 
