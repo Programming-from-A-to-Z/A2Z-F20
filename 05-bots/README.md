@@ -55,6 +55,7 @@ Prepare a 5 minute presentation on your bot to give over Zoom w/ screen sharing 
 * Brandon Roots -- [I Had A Dream Bot](https://brandonroots.com/2020/10/17/i-had-a-dream-bot/)
 * Martin Martin -- [Office Supplies -- Getting You Through 2020](https://www.martinsquared.com/2020/10/18/office-supplies-getting-you-through-2020/)
 * Helen Zegarra -- [A bot says: Deep phrases in Spanish](https://texaotech.wordpress.com/2020/10/19/a-bot-says-deep-phrases-in-spanish/)
+* Beste Saylar -- [Twitter Bot-Global Awareness](https://www.bestesaylar.com/programming-a2z)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 * 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
