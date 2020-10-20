@@ -62,6 +62,7 @@ Prepare a 5 minute presentation on your bot to give over Zoom w/ screen sharing 
 * KJ Ha -- [Text2Emoji](https://www.kyungjooha.com/post/text2emoji)
 * Zeyao Li and Tianxu Zhou -- [Tiny Ladybug](https://tianxuzhoublabla.wordpress.com/2020/10/20/week06-tiny-ladybug/)
 * Simone Salvo -- [Brainstorming Bots](https://www.simonesalvo.com/itp-portfolio/2020/10/20/bot-brainstorming)
+* Fanyi Pan -- [Fortune Cookie Bot](https://fanyipan.wordpress.com/2020/10/20/fortune-cookie-bot/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 * 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
