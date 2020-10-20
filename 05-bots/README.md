@@ -58,6 +58,7 @@ Prepare a 5 minute presentation on your bot to give over Zoom w/ screen sharing 
 * Beste Saylar -- [Twitter Bot-Global Awareness](https://www.bestesaylar.com/programming-a2z)
 * Elizabeth Perez -- [Humanizing bots?](https://brujatech.wordpress.com/2020/10/19/humanizing-bots/) 
 * Tracey Shi -- [Discord Bot Image Generator]( http://wp.nyu.edu/tianyeeee/programming-a-z/)
+* KJ Ha -- [Text2Emoji](https://www.kyungjooha.com/post/text2emoji)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 * 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
