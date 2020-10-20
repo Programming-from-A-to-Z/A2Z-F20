@@ -80,3 +80,5 @@ Reflect on your process of word counting and consider the following questions in
 * Simone Salvo -- [Lost in Transcription](https://www.simonesalvo.com/itp-portfolio/2020/10/6/lost-in-transcription)
 * Jan Suphitcha -- [Word Counting](http://www.jayspaper.com/blog/2020/10/11/a2z-word-count)
 * Elizabeth Pérez -- [Why is word counting a thing](https://brujatech.wordpress.com/2020/10/12/why-is-word-counting-a-thing/)
+* Ahmad Arshad -- [Arabic Word Counting](https://dev1.ed-projects.nyu.edu/geotools/2020/10/06/arabic-word-counting/)
+
