@@ -59,6 +59,8 @@ Prepare a 5 minute presentation on your bot to give over Zoom w/ screen sharing 
 * Elizabeth Perez -- [Humanizing bots?](https://brujatech.wordpress.com/2020/10/19/humanizing-bots/) 
 * Tracey Shi -- [Discord Bot Image Generator]( http://wp.nyu.edu/tianyeeee/programming-a-z/)
 * Minyoung Bang -- [Happy Birthday ZM bot](http://wp.nyu.edu/minyoungbang/week6-hbdzbot/)
+* KJ Ha -- [Text2Emoji](https://www.kyungjooha.com/post/text2emoji)
+* Zeyao Li and Tianxu Zhou -- [Tiny Ladybug](https://tianxuzhoublabla.wordpress.com/2020/10/20/week06-tiny-ladybug/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 * 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
