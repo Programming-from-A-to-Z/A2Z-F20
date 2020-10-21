@@ -79,3 +79,4 @@
 * Tianxu Zhou -- [API Experiments](https://tianxuzhoublabla.wordpress.com/2020/09/29/week03-api-experiments/)
 * Elizabeth Pérez -- [(re)Familiarizing myself with APIs + RiTa?](https://brujatech.wordpress.com/2020/10/05/refamiliarizing-myself-with-apis-rita/)
 * Jan Suphitcha -- [Exploring Rita.js and API](http://www.jayspaper.com/blog/2020/9/29/a2z-data-and-apis)
+* Ahmad Arshad -- [API Mashups](https://dev1.ed-projects.nyu.edu/geotools/2020/09/29/api-mashup/)
