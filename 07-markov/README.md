@@ -15,6 +15,7 @@
 - 🚨 [CFG with Tracery](https://youtu.be/C3EwsSNJeOE?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch)
 - 🍿 [CFG with RiTa](https://youtu.be/VaAoIaZ3YKs)
 - 🍿 [CFG "from scratch" with p5.js](https://youtu.be/8Z9FRiW2Jlc)
+- 💻 [CFG p5.js code examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)
 - 📚 [2016 Notes on Context-Free Grammar](http://shiffman.net/a2z/cfg)
 - 🔗 [Tracery by Kate Compton](http://tracery.io/)
 - 🔗 [Seaduck by Allison Parrish](https://github.com/aparrish/seaduck)
