@@ -5,7 +5,7 @@
 - 📕 [Markov Chains](http://setosa.io/blog/2014/07/26/markov-chains/) by Victor Powell and Lewis Lehe
 - 🚨 [Markov Chain video tutorial Part 1](https://youtu.be/eGFJ8vugIWA)
 - 🍿 [Markov Chain video tutorial Part 2](https://youtu.be/9r8CmofnbAQ)
-- 💻 [Markov Chain p5.js code example](https://editor.p5js.org/a2zitp/sketches/TIGSaFdWB)
+- 💻 [Markov Chain p5.js code examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE)
 - 📚 [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 - 📚 [2016 Markov Chains notes from A2Z](https://shiffman.net/a2z/markov/)
 - 🎨 [ITP Course Generator by Allison Parrish](http://static.decontextualize.com/toys/next_semester)
