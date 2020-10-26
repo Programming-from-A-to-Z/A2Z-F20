@@ -65,6 +65,7 @@ Prepare a 5 minute presentation on your bot to give over Zoom w/ screen sharing 
 * Lynne Yun -- [Creating a Bot](https://github.com/lynneyun/ITP-Documentation/blob/master/Programming_from_A_to_Z/Sesson05-06/MakingABot.md)
 * Fanyi Pan -- [Fortune Cookie Bot](https://fanyipan.wordpress.com/2020/10/20/fortune-cookie-bot/)
 * Ahmad Arshad -- [Giphy-Discord Bot](https://dev1.ed-projects.nyu.edu/geotools/2020/10/20/giphy-discord-bot/)
+* Julie Lizardo -- [Colorina-Twitter-Bot](https://twitter.com/colorinathebot)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 * 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
