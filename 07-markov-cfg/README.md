@@ -8,7 +8,6 @@
 - 💻 [Markov Chain p5.js code examples](https://editor.p5js.org/a2zitp/collections/WEXEPRHuE)
 - 📚 [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 - 📚 [2016 Markov Chains notes from A2Z](https://shiffman.net/a2z/markov/)
-- 📚 [N-Grams and Markov Chains by Allison Parrish](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 
 ### Markov Project References
 
