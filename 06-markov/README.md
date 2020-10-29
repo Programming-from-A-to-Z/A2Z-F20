@@ -1,4 +1,4 @@
-# Session 7 - Markov Chains
+# Markov Chains
 
 ## Markov Chains
 

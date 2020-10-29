@@ -1,4 +1,4 @@
-# IN PROGRESS Recurrent Neural Network (RNN), GPT-2
+# IN PROGRESS Machine Learning
 
 - [Week 7 RNN Slides](https://docs.google.com/presentation/d/1ujIuPSKzeDLK-D6FRJlVHDsMmWU0Sy8RYZ7_kq3FLVA/edit?usp=sharing)
 

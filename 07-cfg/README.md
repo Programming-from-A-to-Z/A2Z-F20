@@ -1,4 +1,4 @@
-# Session 7 - Context Free Grammars
+# Context Free Grammars
 
 ## Context-Free Grammar
 
