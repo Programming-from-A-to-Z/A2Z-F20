@@ -41,6 +41,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Name - [post title](post url)
 - Fanyi - [Markov Chain](https://fanyipan.wordpress.com/2020/11/01/week-8-markov-chain/)
+- Brandon Roots -- [Me Talk Pretty One Day](https://brandonroots.com/2020/11/01/markov-chains/)
+- Martin - [Perverbs – Ramblings of the Old – East & West](https://www.martinsquared.com/2020/11/01/perverbs-ramblings-of-the-old-east-west/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
