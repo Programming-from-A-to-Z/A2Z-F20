@@ -46,6 +46,9 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Martin - [Perverbs – Ramblings of the Old – East & West](https://www.martinsquared.com/2020/11/01/perverbs-ramblings-of-the-old-east-west/)
 - Beste - [The Fairy Tale Story](https://www.bestesaylar.com/programming-a2z)
 - Julie - [Dr. Seuss + Markov Chains](https://julielizardo.com/2020/11/02/dr-seuss-markov-chains/)
+- Helen - [Playing with markov chains and multiple languages](https://texaotech.wordpress.com/2020/11/03/playing-with-markov-chains-and-multiple-languages/ )
+- Youming - [Markov Twinkle Twinkle](https://youmingzhang19.medium.com/markov-made-music-4c39c345cc8a)
+- Minyoung Bang - [Random Places in Kyoto](https://wp.nyu.edu/minyoungbang/week8-marcov-chains/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
