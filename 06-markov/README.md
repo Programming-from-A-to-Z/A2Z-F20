@@ -51,6 +51,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Helen - [Playing with markov chains and multiple languages](https://texaotech.wordpress.com/2020/11/03/playing-with-markov-chains-and-multiple-languages/ )
 - Youming - [Markov Twinkle Twinkle](https://youmingzhang19.medium.com/markov-made-music-4c39c345cc8a)
 - Minyoung Bang - [Random Places in Kyoto](https://wp.nyu.edu/minyoungbang/week8-marcov-chains/)
+- Ahmad Arshad - [Harry Pothead](https://dev1.ed-projects.nyu.edu/geotools/2020/11/03/harry-pothead/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
