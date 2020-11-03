@@ -45,6 +45,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Brandon Roots -- [Me Talk Pretty One Day](https://brandonroots.com/2020/11/01/markov-chains/)
 - Martin - [Perverbs – Ramblings of the Old – East & West](https://www.martinsquared.com/2020/11/01/perverbs-ramblings-of-the-old-east-west/)
 - Beste - [The Fairy Tale Story](https://www.bestesaylar.com/programming-a2z)
+- Julie - [Dr. Seuss + Markov Chains](https://julielizardo.com/2020/11/02/dr-seuss-markov-chains/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
