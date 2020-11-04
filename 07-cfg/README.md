@@ -3,6 +3,7 @@
 ## CFG Resources
 
 - 🚨 [CFG with Tracery](https://youtu.be/C3EwsSNJeOE?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch), [Tracery by Kate Compton](http://tracery.io/)
+- 📕 [Tracery: An Author-Focused Generative Text Tool](https://www.researchgate.net/profile/Quinn_Kybartas/publication/300137911_Tracery_An_Author-Focused_Generative_Text_Tool/links/5ed3c8c14585152945220c14/Tracery-An-Author-Focused-Generative-Text-Tool.pdf)
 - 🍿 [CFG with RiTa](https://youtu.be/VaAoIaZ3YKs)
 - 🍿 [CFG "from scratch" with p5.js](https://youtu.be/8Z9FRiW2Jlc)
 - 💻 [CFG p5.js code examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)
@@ -26,12 +27,9 @@
 
 
 ## Assignment
+_(It is not required to write any new code for this assignment. You are welcome to run one or more of the provided examples with your own data. You can document the results in a blog post (or link to a web page where the text is generated). I'll include some other ideas below in case you are feeling ambitious.)_
 
-It is not required to write any new code for this assignment. You are welcome to run one or more of the provided examples with your own data. You can document the results in a blog post (or link to a web page where the text is generated). I'll include some other ideas below in case you are feeling ambitious.
-
-### Context-Free Grammar
-
-Invent your own grammar and generate text. Feel free to use [Tracery](http://tracery.io/) or even try Allison Parrish's new [Seaduck](https://github.com/aparrish/seaduck). [Here are several p5.js examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa).
+Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples]((https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)), try [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from the RiTa library, or even investigate Allison Parrish's [Seaduck](https://github.com/aparrish/seaduck). [Here are several p5.js examples].
 
 Getting results from a context-free-grammar can be tricky. Short and sweet, highly structured ideas tend to work well. For example.
 
