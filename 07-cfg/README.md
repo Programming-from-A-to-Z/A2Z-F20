@@ -19,6 +19,13 @@
 - 👗 [What color is this dress?](http://www.galaxykate.com/dress/)
 - 💖 [Happy Valentine's Day](http://www.galaxykate.com/apps//vday/vday.html?s=HEJ8)
 
+## CFG Visual Art
+- 📚 [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf)
+- 📚 [Nature of Code: Fractals]https://natureofcode.com/book/chapter-8-fractals/)
+- 🍿 [L-System video tutorial](https://youtu.be/E1B4UoSQMFw)
+- 💻 [L-System code](https://editor.p5js.org/codingtrain/sketches/QmTx-Y_UP)
+
+
 ## Assignment
 
 It is not required to write any new code for this assignment. You are welcome to run one or more of the provided examples with your own data. You can document the results in a blog post (or link to a web page where the text is generated). I'll include some other ideas below in case you are feeling ambitious.
