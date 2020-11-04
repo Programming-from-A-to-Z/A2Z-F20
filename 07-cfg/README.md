@@ -13,6 +13,9 @@
 
 - 🎨 [GenGen by Darius Kazemi](http://tinysubversions.com/gengen/)
 - 🤖 [Art Assignment Bot](https://twitter.com/artassignbot?lang=en)
+- 👹 [Monstr (a dating website, but for monsters)](http://www.plusultra.ninja/monstr.html)
+- 👗 [What color is this dress?](http://www.galaxykate.com/dress/)
+- 💖 [Happy Valentine's Day](http://www.galaxykate.com/apps//vday/vday.html?s=HEJ8)
 
 ## Reading
 
