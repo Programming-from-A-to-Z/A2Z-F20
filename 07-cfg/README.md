@@ -9,7 +9,6 @@
 - 💻 [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from RiTa library
 - 📚 [Context-Free Grammars by Allison Parrish](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/)
 - 📚 [2016 Notes on Context-Free Grammar](http://shiffman.net/a2z/cfg)
-- 
 
 ## CFG Project References
 
