@@ -21,7 +21,7 @@
 
 ## CFG Visual Art
 - 📚 [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf)
-- 📚 [Nature of Code: Fractals]https://natureofcode.com/book/chapter-8-fractals/)
+- 📚 [Nature of Code: Fractals](https://natureofcode.com/book/chapter-8-fractals/)
 - 🍿 [L-System video tutorial](https://youtu.be/E1B4UoSQMFw)
 - 💻 [L-System code](https://editor.p5js.org/codingtrain/sketches/QmTx-Y_UP)
 
@@ -37,6 +37,8 @@ Getting results from a context-free-grammar can be tricky. Short and sweet, high
 - An apology generator.
 - An ITP project idea generator.
 - A knock knock joke generator.
+
+Something you might consider is pulling the "terminal" words for your grammar from an API or other data source.  You are also welcome to explore generative visual art with Context Free Grammars basing your exercise off of the L-System material described above.
 
 ## Add your assignment below via Pull Request
 
