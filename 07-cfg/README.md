@@ -4,11 +4,11 @@
 
 - 🚨 [CFG with Tracery](https://youtu.be/C3EwsSNJeOE?list=PLRqwX-V7Uu6YrbSJBg32eTzUU50E2B8Ch), [Tracery by Kate Compton](http://tracery.io/)
 - 📕 [Tracery: An Author-Focused Generative Text Tool](https://www.researchgate.net/profile/Quinn_Kybartas/publication/300137911_Tracery_An_Author-Focused_Generative_Text_Tool/links/5ed3c8c14585152945220c14/Tracery-An-Author-Focused-Generative-Text-Tool.pdf)
+- 📚 [Context-Free Grammars by Allison Parrish](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/)
 - 🍿 [CFG with RiTa](https://youtu.be/VaAoIaZ3YKs)
 - 🍿 [CFG "from scratch" with p5.js](https://youtu.be/8Z9FRiW2Jlc)
 - 💻 [CFG p5.js code examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)
 - 💻 [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from RiTa library
-- 📚 [Context-Free Grammars by Allison Parrish](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/)
 - 📚 [2016 Notes on Context-Free Grammar](http://shiffman.net/a2z/cfg)
 
 ## CFG Project References
