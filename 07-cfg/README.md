@@ -30,7 +30,7 @@
 ## Assignment
 _(It is not required to write any new code for this assignment. You are welcome to run one or more of the provided examples with your own data. You can document the results in a blog post (or link to a web page where the text is generated). I'll include some other ideas below in case you are feeling ambitious.)_
 
-Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples]((https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)), try [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from the RiTa library, or even investigate Allison Parrish's [Seaduck](https://github.com/aparrish/seaduck). [Here are several p5.js examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa).
+Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa), try [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from the RiTa library, or even investigate Allison Parrish's [Seaduck](https://github.com/aparrish/seaduck).
 
 Getting results from a context-free-grammar can be tricky. Short and sweet, highly structured ideas tend to work well. For example.
 
@@ -39,7 +39,7 @@ Getting results from a context-free-grammar can be tricky. Short and sweet, high
 - An ITP project idea generator.
 - A knock knock joke generator.
 
-Something you might consider is pulling the "terminal" words for your grammar from an API or other data source.  You are also welcome to explore generative visual art with Context Free Grammars basing your exercise off of the L-System material described above.
+Something you might consider is pulling the "terminal" words for your grammar from an API or other data source.  You are also welcome to explore generative visual art with Context Free Grammars basing your exercise off of the L-System material described above. Or what else can you generate from a Context-Free Grammar? Music?
 
 ## Add your assignment below via Pull Request
 
@@ -47,7 +47,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
-- 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
+- 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you already know this material, you can skip.
 - 🔢 This is found in a group, maybe pick just one to check out!
 - 🍿 Additional video if you have a particular interest and want to do a deeper dive.
 - 📕 Required reading! Let's make sure we all have read this.
