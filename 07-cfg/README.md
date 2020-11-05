@@ -29,7 +29,7 @@
 ## Assignment
 _(It is not required to write any new code for this assignment. You are welcome to run one or more of the provided examples with your own data. You can document the results in a blog post (or link to a web page where the text is generated). I'll include some other ideas below in case you are feeling ambitious.)_
 
-Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples]((https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)), try [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from the RiTa library, or even investigate Allison Parrish's [Seaduck](https://github.com/aparrish/seaduck). [Here are several p5.js examples].
+Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples]((https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)), try [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from the RiTa library, or even investigate Allison Parrish's [Seaduck](https://github.com/aparrish/seaduck). [Here are several p5.js examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa).
 
 Getting results from a context-free-grammar can be tricky. Short and sweet, highly structured ideas tend to work well. For example.
 
