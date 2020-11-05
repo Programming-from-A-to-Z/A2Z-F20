@@ -13,8 +13,7 @@
 - 📚 [2016 Notes on Context-Free Grammar](http://shiffman.net/a2z/cfg)
 
 ## CFG Project References
-
-- 🎨 [GenGen by Darius Kazemi](http://tinysubversions.com/gengen/)
+- 🎨 [ContextFree GenGen by Allison Parrish](http://cfgg.decontextualize.com) based off of [GenGen by Darius Kazemi](http://tinysubversions.com/gengen/)
 - 🤖 [Art Assignment Bot](https://twitter.com/artassignbot?lang=en)
 - 👹 [Monstr (a dating website, but for monsters)](http://www.plusultra.ninja/monstr.html)
 - 👗 [What color is this dress?](http://www.galaxykate.com/dress/)
@@ -30,7 +29,7 @@
 ## Assignment
 _(It is not required to write any new code for this assignment. You are welcome to run one or more of the provided examples with your own data. You can document the results in a blog post (or link to a web page where the text is generated). I'll include some other ideas below in case you are feeling ambitious.)_
 
-Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa), try [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from the RiTa library, or even investigate Allison Parrish's [Seaduck](https://github.com/aparrish/seaduck).
+Invent your own grammar and generate text. I suggest using [Tracery](http://tracery.io/) but [you can base your code on any of my examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa), try [RiGrammer](https://rednoise.org/rita/reference/RiGrammar.php) from the RiTa library, use [ContextFree GenGen](http://cfgg.decontextualize.com) with a Google Sheet, or even investigate Allison Parrish's [Seaduck](https://github.com/aparrish/seaduck).
 
 Getting results from a context-free-grammar can be tricky. Short and sweet, highly structured ideas tend to work well. For example.
 
