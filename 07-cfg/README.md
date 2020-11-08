@@ -45,6 +45,7 @@ Something you might consider is pulling the "terminal" words for your grammar fr
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 - Ahmad Arshad - [Hickory Dickory Dock](https://dev1.ed-projects.nyu.edu/geotools/2020/11/07/hickory-dickory-docker/)
 - Martin Martin - [MASHing with CFG](https://www.martinsquared.com/2020/11/08/mashing-with-cfg/)
+- KJ Ha - [The Fox and the Grapes](https://www.kyungjooha.com/post/the-fox-and-the-grapes)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
