@@ -36,5 +36,7 @@
 > among the reasons I use large pre-trained language models sparingly in my computer-generated poetry practice is that being able to know whose voices I'm speaking with is... actually important, as is being understanding how the output came to have its shape - [@aparrish](https://twitter.com/aparrish/)
 
 - 📕 [Allison Parrish Large Language Model Tweet Thread](https://twitter.com/aparrish/status/1286808606466244608)
+- 🍿 [Generative Text Training with GPT-2](https://youtu.be/-v5StaeOisM) from RunwayML
+- 🍿 [LSTM is dead. Long Live Transformers!](https://youtu.be/S27pHKBEp30)
 - 📚 [The Next Word: Where will predictive text take us?](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker) by John Seabrook about the GPT-2 model in RunwayML
 - 📚 [The Supply of Disinformation Will Soon Be Infinite](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400)
