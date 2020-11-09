@@ -52,6 +52,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Lynne Yun - [CFG Fortune Teller](https://github.com/lynneyun/ITP-Documentation/blob/master/Programming_from_A_to_Z/Session07/CFG_fortune.md)
 - KJ Ha - [The Fox and the Grapes](https://www.kyungjooha.com/post/the-fox-and-the-grapes)
 - Brandon Roots - [Pizza](https://brandonroots.com/2020/11/09/context-free-grammars/)
+- Tracey Shi - [Question of the Day](http://wp.nyu.edu/tianyeeee/programming-a-z/)
+
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
