@@ -52,6 +52,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Youming - [Markov Twinkle Twinkle](https://youmingzhang19.medium.com/markov-made-music-4c39c345cc8a)
 - Minyoung Bang - [Random Places in Kyoto](https://wp.nyu.edu/minyoungbang/week8-marcov-chains/)
 - Ahmad Arshad - [Harry Pothead](https://dev1.ed-projects.nyu.edu/geotools/2020/11/03/harry-pothead/)
+– Simone Salvo - [Red, White, and Markov](https://www.simonesalvo.com/itp-portfolio/2020/11/8/markov-flag)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
