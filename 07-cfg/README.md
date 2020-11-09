@@ -6,11 +6,12 @@
 - 🍿 [CFG with RiTa](https://youtu.be/VaAoIaZ3YKs)
 - 🍿 [CFG "from scratch" with p5.js](https://youtu.be/8Z9FRiW2Jlc)
 - 💻 [CFG p5.js code examples](https://editor.p5js.org/a2zitp/collections/5IFiJuQZa)
-- 📚[Context-Free Grammars by Allison Parrish](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/)
+- 📚 [Context-Free Grammars by Allison Parrish](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/)
 - 📚 [2016 Notes on Context-Free Grammar](http://shiffman.net/a2z/cfg)
 
 ### CFG Project References
 
+- 🔬 [SCIgen - An Automatic CS Paper Generator](https://pdos.csail.mit.edu/archive/scigen/)
 - 🎨 [GenGen by Darius Kazemi](http://tinysubversions.com/gengen/)
 - 🤖 [Art Assignment Bot](https://twitter.com/artassignbot?lang=en)
 
