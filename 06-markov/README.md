@@ -40,6 +40,18 @@ It is not required to write any new code for this assignment, however I'll inclu
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [post title](post url)
+- KJ Ha - [Quote Generator](https://www.kyungjooha.com/post/quote-generator)
+- Fanyi - [Markov Chain](https://fanyipan.wordpress.com/2020/11/01/week-8-markov-chain/)
+- Brandon Roots -- [Me Talk Pretty One Day](https://brandonroots.com/2020/11/01/markov-chains/)
+- Martin - [Perverbs – Ramblings of the Old – East & West](https://www.martinsquared.com/2020/11/01/perverbs-ramblings-of-the-old-east-west/)
+- Beste - [The Fairy Tale Story](https://www.bestesaylar.com/programming-a2z)
+- DonNan - [The Fairy Tale Story](https://wp.nyu.edu/tischschoolofthearts-donnan/2020/11/03/generate-a-poem/)
+- Tracey - [Emerging Music Genre Generator] (https://editor.p5js.org/tytyshi/sketches/DElPAXY90)
+- Julie - [Dr. Seuss + Markov Chains](https://julielizardo.com/2020/11/02/dr-seuss-markov-chains/)
+- Helen - [Playing with markov chains and multiple languages](https://texaotech.wordpress.com/2020/11/03/playing-with-markov-chains-and-multiple-languages/ )
+- Youming - [Markov Twinkle Twinkle](https://youmingzhang19.medium.com/markov-made-music-4c39c345cc8a)
+- Minyoung Bang - [Random Places in Kyoto](https://wp.nyu.edu/minyoungbang/week8-marcov-chains/)
+- Ahmad Arshad - [Harry Pothead](https://dev1.ed-projects.nyu.edu/geotools/2020/11/03/harry-pothead/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
