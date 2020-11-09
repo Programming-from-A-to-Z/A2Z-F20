@@ -49,6 +49,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Ahmad Arshad - [Hickory Dickory Dock](https://dev1.ed-projects.nyu.edu/geotools/2020/11/07/hickory-dickory-docker/)
 - Martin Martin - [MASHing with CFG](https://www.martinsquared.com/2020/11/08/mashing-with-cfg/)
+- KJ Ha - [The Fox and the Grapes](https://www.kyungjooha.com/post/the-fox-and-the-grapes)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
