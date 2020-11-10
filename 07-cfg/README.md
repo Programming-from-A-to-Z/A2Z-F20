@@ -57,6 +57,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Youming Zhang - [Once upon the time](https://youmingzhang19.medium.com/once-upon-the-time-619522d81a9a)
 - Simone Salvo – [Mind Your Mood](https://www.simonesalvo.com/itp-portfolio/2020/11/9/mind-your-mood)
 - Elizabeth Pérez - [Mind your mood with Tracery](https://brujatech.wordpress.com/2020/11/10/mind-your-mood-with-tracery/)
+- Julie Lizardo - [Sloth Fortune Teller](https://julielizardo.com/2020/11/10/sloth-fortune-teller/)
 
 
 ## Emoji Key for Video Tutorials, Readings, and more
