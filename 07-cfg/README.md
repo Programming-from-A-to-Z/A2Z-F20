@@ -58,6 +58,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Simone Salvo – [Mind Your Mood](https://www.simonesalvo.com/itp-portfolio/2020/11/9/mind-your-mood)
 - Elizabeth Pérez - [Mind your mood with Tracery](https://brujatech.wordpress.com/2020/11/10/mind-your-mood-with-tracery/)
 - Julie Lizardo - [Sloth Fortune Teller](https://julielizardo.com/2020/11/10/sloth-fortune-teller/)
+- Minyoung Bang - [Icebreaker Question Generator](http://wp.nyu.edu/minyoungbang/week9-cfg/)
 
 
 ## Emoji Key for Video Tutorials, Readings, and more
