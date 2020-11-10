@@ -56,6 +56,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Beste Saylar - [Once Upon A Time](https://github.com/bestesaylar/onceuponatime)
 - Youming Zhang - [Once upon the time](https://youmingzhang19.medium.com/once-upon-the-time-619522d81a9a)
 - Elizabeth Pérez - [Mind your mood with Tracery](https://brujatech.wordpress.com/2020/11/10/mind-your-mood-with-tracery/)
+– Simone Salvo – [Mind Your Mood](https://www.simonesalvo.com/itp-portfolio/2020/11/9/mind-your-mood)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
