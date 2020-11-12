@@ -38,7 +38,7 @@ The ITP/IMA Code of Conduct is an evolving work-in-progress document that establ
 
 ### Week 11 - [Build Your Own API in Node.js](09-node-api), Nov 17
 
-### Week 12 - Final Project Development, Nov 24
+### Week 12 - [Final Project Proposals](final/proposals.md), Nov 19, Nov 24
 
 ### Week 13 - Final Project Development, Dec 1
 

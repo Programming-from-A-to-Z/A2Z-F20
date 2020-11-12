@@ -1,4 +1,10 @@
-## Final Project Proposals
+# Final Project Proposals
+
+## Add a link to your proposal here
+
+- name - [project title](url)
+
+## Overview
 
 Your final project is a three-ish week assignment to be completed in two stages (proposal and implementation). Proposals discussions will be in smaller groups - [signup for a time here!](https://github.com/shiffman/A2Z-F20/wiki/Final-Proposal).
 
@@ -11,7 +17,7 @@ Other notes:
 1. Keeping things simple and small in scope is a plus. If your project idea is a big one, consider documenting the larger idea but implementing just a small piece of it.
 2. Also think about making a final project for a small audience, even one single person like a family member or friend. . . or yourself. This can be a good way to focus your idea and design process. "Generalizing" the idea can come later (or maybe not at all.)
 
-### Proposal
+## Proposal Guidelines
 
 Put together a final project proposal. It's up to you to best present your idea, but some things I would suggest are:
 
