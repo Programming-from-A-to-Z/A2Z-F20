@@ -6,7 +6,7 @@
 
 ## Overview
 
-Your final project is a three-ish week assignment to be completed in two stages (proposal and implementation). Proposals discussions will be in smaller groups - [signup for a time here!](https://github.com/shiffman/A2Z-F20/wiki/Final-Proposal).
+Your final project is a three-ish week assignment to be completed in two stages (proposal and implementation). Proposals discussions will be in smaller groups - [signup for a time here](https://github.com/shiffman/A2Z-F20/wiki/Final-Proposal)!
 
 The final project should be a creative project that builds off or is inspired by the concepts we've covered this semester. You should feel free to think non-traditionally, projects do not need to be screen-based and there is no requirement to use a particular aspect of JavaScript or programming.
 
