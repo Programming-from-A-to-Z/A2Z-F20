@@ -3,7 +3,7 @@
 ## Add a link to your proposal here
 
 - 09:00 - 💖 hello and welcome! 💖
-- 09:05 - Brandon - [project title](url)
+- 09:05 - Brandon - [Smart Blocks](https://docs.google.com/presentation/d/11Y-Ftmv19nUG6z417eWh3lKwo0MIkcLxYV789sAlRY0/edit?usp=sharing)
 - 09:13 - Lynne - [project title](url)
 - 09:21 - KJ - [project title](url)
 - 09:29 - Martin - [project title](url)
