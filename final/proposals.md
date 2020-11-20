@@ -30,7 +30,7 @@
 
 ## Proposal Guidelines
 
-After reviewing the [Final Project Overview](README.md) put together a final project proposal. It's up to you to best present your idea, but some things I would suggest are:
+After reviewing the [Final Project Overview](README.md), create a final project proposal. It's up to you to best present your idea, but some things I would suggest are:
 
 - **Collect inspirations**: How did you become interested in this idea? quotes, photographs, products, projects, people, music, political events, social ills.
 - **Collect source material**: drawings, images, videos, sounds, text
