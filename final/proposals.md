@@ -5,7 +5,7 @@
 - 09:00 - 💖 hello and welcome! 💖
 - 09:05 - Brandon - [Smart Blocks](https://docs.google.com/presentation/d/11Y-Ftmv19nUG6z417eWh3lKwo0MIkcLxYV789sAlRY0/edit?usp=sharing)
 - 09:13 - Lynne - [project title](url)
-- 09:21 - KJ - [project title](url)
+- 09:21 - KJ - [✨ Text2Emoji ✨](https://docs.google.com/presentation/d/1H9VNdl306rjmGp0t-kitH3Rd5rlFJsJZWcfxNyNJG58/edit?usp=sharing)
 - 09:29 - Martin - [project title](url)
 - 09:37 - Tracey - [project title](url)
 - 09:45 - DonNan - [project title](url)
