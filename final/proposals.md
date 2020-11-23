@@ -16,7 +16,7 @@
 - 10:30 -- Beste - [project title](url)
 - 10:38 -- Julie - [project title](url)
 - 10:46 -- Elizabeth & Simone - [project title](url)
-- 10:54 -- Youming - [project title](url)
+- 10:54 -- Youming - [Lyrics Generator](https://docs.google.com/presentation/d/1BCJZACJ0AMVcaYnZ8Q1kvob1JVR1hKUB0p-Z905kzRg/edit?usp=sharing)
 - 11:02 -- Ahmad - [project title](url)
 - 11:10 -- Jan - [project title](url)
 - 11:18 -- Fanyi - [project title](url)
