@@ -14,7 +14,7 @@
 - 10:09 -- Helen - [project title](url)
 - 10:17 -- BREAK
 - 10:30 -- Beste - [project title](url)
-- 10:38 -- Julie - [project title](url)
+- 10:38 -- Julie - [Generative Art](https://docs.google.com/presentation/d/1N9PTE0EHDGm_PCXrU21arUWyRC05t1C51-Et-CcbWnA/edit?usp=sharing)
 - 10:46 -- Elizabeth & Simone - [project title](url)
 - 10:54 -- Youming - [Lyrics Generator](https://docs.google.com/presentation/d/1BCJZACJ0AMVcaYnZ8Q1kvob1JVR1hKUB0p-Z905kzRg/edit?usp=sharing)
 - 11:02 -- Ahmad - [project title](url)
