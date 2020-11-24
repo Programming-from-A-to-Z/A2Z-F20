@@ -11,7 +11,7 @@
 - 09:45 - DonNan - [project title](url)
 - 09:53 - Zeyao and Tianxu - [To 100 Boys I've Dated Before](https://docs.google.com/presentation/d/1NzLnvcT3nq7Tpml1kbEgla3uB-YApl34RpjMfDV3_qk/edit?usp=sharing)
 - 10:01 -- Minyoung - [project title](url)
-- 10:09 -- Helen - [project title](url)
+- 10:09 -- Helen - [Easy vote 2021](https://docs.google.com/presentation/d/1lc9bFzmtz12XV2n_vDKjYqrdmib8a67PJH9NVK_zp5E/edit?usp=sharing)
 - 10:17 -- BREAK
 - 10:30 -- Beste - [project title](url)
 - 10:38 -- Julie - [project title](url)
