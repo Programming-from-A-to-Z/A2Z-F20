@@ -15,7 +15,7 @@
 - 10:17 -- BREAK
 - 10:30 -- Beste - [project title](url)
 - 10:38 -- Julie - [project title](url)
-- 10:46 -- Elizabeth & Simone - [project title](url)
+- 10:46 -- Elizabeth & Simone - [give/receive energy](https://docs.google.com/presentation/d/1atlioUxPiWKKlyb89tIJ73aIMJdjyeP6gf30cPRYYYs/edit?usp=sharing)
 - 10:54 -- Youming - [Lyrics Generator](https://docs.google.com/presentation/d/1BCJZACJ0AMVcaYnZ8Q1kvob1JVR1hKUB0p-Z905kzRg/edit?usp=sharing)
 - 11:02 -- Ahmad - [project title](url)
 - 11:10 -- Jan - [project title](url)
