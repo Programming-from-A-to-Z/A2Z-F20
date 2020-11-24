@@ -4,7 +4,7 @@
 
 - 09:00 - 💖 hello and welcome! 💖
 - 09:05 - Brandon - [Smart Blocks](https://docs.google.com/presentation/d/11Y-Ftmv19nUG6z417eWh3lKwo0MIkcLxYV789sAlRY0/edit?usp=sharing)
-- 09:13 - Lynne - [project title](url)
+- 09:13 - Lynne - [CFG Fraktals](https://github.com/lynneyun/ITP-Documentation/blob/master/Programming_from_A_to_Z/Final%20Project/Final%20Project%20for%20A2Z-%20CFG%20Fractals.md)
 - 09:21 - KJ - [✨ Text2Emoji ✨](https://docs.google.com/presentation/d/1H9VNdl306rjmGp0t-kitH3Rd5rlFJsJZWcfxNyNJG58/edit?usp=sharing)
 - 09:29 - Martin - [PROJECT CODENAME: GoodBoy 😇 / BadBoy 😈](https://docs.google.com/presentation/d/1kxpkrKR7Wimvr3ee0A3q05fU8Jx2JdFRRS4mIeJ0kQo/edit?usp=sharing)
 - 09:37 - Tracey - [project title](url)
