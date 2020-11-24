@@ -10,7 +10,7 @@
 - 09:37 - Tracey - [project title](url)
 - 09:45 - DonNan - [project title](url)
 - 09:53 - Zeyao and Tianxu - [project title](url)
-- 10:01 -- Minyoung - [project title](url)
+- 10:01 -- Minyoung - [Lost in Translation](https://docs.google.com/presentation/d/1WFcf1-9f57Zz9uQB2BdXA3iLwLGp3DBBgAu7S8fWRCM/edit?usp=sharing)
 - 10:09 -- Helen - [project title](url)
 - 10:17 -- BREAK
 - 10:30 -- Beste - [project title](url)
