@@ -17,7 +17,7 @@
 - 10:38 -- Julie - [Generative Art](https://docs.google.com/presentation/d/1N9PTE0EHDGm_PCXrU21arUWyRC05t1C51-Et-CcbWnA/edit?usp=sharing)
 - 10:46 -- Elizabeth & Simone - [give/receive energy](https://docs.google.com/presentation/d/1atlioUxPiWKKlyb89tIJ73aIMJdjyeP6gf30cPRYYYs/edit?usp=sharing)
 - 10:54 -- Youming - [Lyrics Generator](https://docs.google.com/presentation/d/1BCJZACJ0AMVcaYnZ8Q1kvob1JVR1hKUB0p-Z905kzRg/edit?usp=sharing)
-- 11:02 -- Ahmad - [Langar Shukriya](https://docs.google.com/presentation/d/1l9Vgi1Jy5Ykkf1mVjBCjpXSce0oeg-iCy3t8xr716zk/edit#slide=id.ga3285b18db_0_0)
+- 11:02 -- Ahmad - [Langar Shukriya](https://docs.google.com/presentation/d/18TyG60RaS5KopacscyT5QuDhurdKMUhIlJZfibNXy2E/edit#slide=id.p)
 - 11:10 -- Jan - [project title](url)
 - 11:18 -- Fanyi - [project title](url)
 
