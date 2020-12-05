@@ -19,7 +19,7 @@
 - 10:54 - Brandon - [project title](url)
 - 11:02 - Jan - [project title](url)
 - 11:10 - Youming - [project title](url)
-- 10:18 - Minyoung - [project title](url)
+- 11:18 - Minyoung - [project title](url)
 
 ## Guidelines
 
