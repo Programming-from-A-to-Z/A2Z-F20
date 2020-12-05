@@ -23,4 +23,4 @@ Every student should test at least 3 other projects. You'll be tagged your assig
 
 ## Final Presentations
 
-* TBD
+- [final presentation schedule and guidlines](documentation.md)
