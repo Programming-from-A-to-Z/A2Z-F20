@@ -18,7 +18,7 @@
 - 10:46 - Lynne - [CFG Fractal Trees](https://lynneyun.github.io/A-Z_FinalProject/) & [Code Repo](https://github.com/lynneyun/A-Z_FinalProject)
 - 10:54 - Brandon - [project title](url)
 - 11:02 - Jan - [project title](url)
-- 11:10 - Youming - [project title](url)
+- 11:10 - Youming - [song writer](https://docs.google.com/presentation/d/1oVRzcUFfxlzduWAlmMoKf-cMtsVM6RSSnxTbTx8CJG0/edit?usp=sharing)
 - 11:18 - Minyoung - [project title](url)
 
 ## Guidelines
