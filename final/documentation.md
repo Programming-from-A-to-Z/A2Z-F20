@@ -4,7 +4,7 @@
 
 - 09:00 - 💖 hello and welcome! 💖
 - 09:05 - Fanyi - [project title](url)
-- 09:13 - Elizabeth & Simone - [project title](url)
+- 09:13 - Elizabeth & Simone - [re:new](https://abaft-slender-raclette.glitch.me/)
 - 09:21 - DonNan - [project title](url)
 - 09:29 - Tracey - [project title](url)
 - 09:37 - Julie - [project title](url)
