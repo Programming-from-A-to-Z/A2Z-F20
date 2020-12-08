@@ -11,7 +11,6 @@
 - 09:45 - Martin - [La Re Bohent - A Digital Libretto](https://gist.github.com/gfm262/42a0de4849363805ef3be3fa002b9049)
 - 09:53 - Beste - [project title](url)
 - 10:09 - Helen - [project title](url)
-- 10:09 - Ahmad - [project title](url)
 - 10:17 - BREAK
 - 10:30 - Zeyao and Tianxu - [project title](url)
 - 10:38 - KJ - [Text2Emoji](https://www.kyungjooha.com/post/text2emoji-4)
@@ -20,6 +19,7 @@
 - 11:02 - Jan - [project title](url)
 - 11:10 - Youming - [song writer](https://docs.google.com/presentation/d/1oVRzcUFfxlzduWAlmMoKf-cMtsVM6RSSnxTbTx8CJG0/edit?usp=sharing)
 - 11:18 - Minyoung - [project title](url)
+- 11:27 - Ahmad - [project title](url)
 
 ## Guidelines
 
