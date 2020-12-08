@@ -14,7 +14,7 @@
 - 10:09 - Ahmad - [project title](url)
 - 10:17 - BREAK
 - 10:30 - Zeyao and Tianxu - [project title](url)
-- 10:38 - KJ - [project title](url)
+- 10:38 - KJ - [Text2Emoji](https://www.kyungjooha.com/post/text2emoji-4)
 - 10:46 - Lynne - [project title](url)
 - 10:54 - Brandon - [project title](url)
 - 11:02 - Jan - [project title](url)
