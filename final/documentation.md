@@ -15,7 +15,7 @@
 - 10:17 - BREAK
 - 10:30 - Zeyao and Tianxu - [project title](url)
 - 10:38 - KJ - [Text2Emoji](https://www.kyungjooha.com/post/text2emoji-4)
-- 10:46 - Lynne - [project title](url)
+- 10:46 - Lynne - [CFG Fractal Trees](https://lynneyun.github.io/A-Z_FinalProject/) & [Code Repo](https://github.com/lynneyun/A-Z_FinalProject)
 - 10:54 - Brandon - [project title](url)
 - 11:02 - Jan - [project title](url)
 - 11:10 - Youming - [project title](url)
