@@ -6,7 +6,7 @@
 - 09:05 - Fanyi - [project title](url)
 - 09:13 - Elizabeth & Simone - [re:new](https://abaft-slender-raclette.glitch.me/)
 - 09:21 - DonNan - [project title](url)
-- 09:29 - Tracey - [project title](url)
+- 09:29 - Tracey - [Transcripting]( http://wp.nyu.edu/tianyeeee/programming-a-z)
 - 09:37 - Julie - [project title](url)
 - 09:45 - Martin - [La Re Bohent - A Digital Libretto](https://gist.github.com/gfm262/42a0de4849363805ef3be3fa002b9049)
 - 09:53 - Beste - [project title](url)
