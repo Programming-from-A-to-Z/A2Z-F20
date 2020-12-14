@@ -10,7 +10,7 @@
 - 09:37 - Julie - [project title](url)
 - 09:45 - Martin - [La Re Bohent - A Digital Libretto](https://gist.github.com/gfm262/42a0de4849363805ef3be3fa002b9049)
 - 09:53 - Beste - [project title](url)
-- 10:09 - Helen - [project title](url)
+- 10:09 - Helen - [Easy Vote 2021](https://texaotech.wordpress.com/2020/12/14/easy-vote-2021/)
 - 10:17 - BREAK
 - 10:30 - Zeyao and Tianxu - [project title](url)
 - 10:38 - KJ - [Text2Emoji](https://www.kyungjooha.com/post/text2emoji-4)
