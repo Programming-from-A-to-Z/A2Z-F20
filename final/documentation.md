@@ -18,7 +18,7 @@
 - 10:54 - Brandon - [Smart Tiles](http://brandonroots.com/2020/12/09/final-project-update-2/)
 - 11:02 - Jan - [project title](url)
 - 11:10 - Youming - [song writer](https://docs.google.com/presentation/d/1oVRzcUFfxlzduWAlmMoKf-cMtsVM6RSSnxTbTx8CJG0/edit?usp=sharing)
-- 11:18 - Minyoung - [project title](url)
+- 11:18 - Minyoung - [List in Translation](https://wp.nyu.edu/minyoungbang/final-lost-in-translation/)
 - 11:27 - Ahmad - [project title](url)
 
 ## Guidelines
