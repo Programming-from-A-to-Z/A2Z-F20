@@ -12,7 +12,7 @@
 - 09:53 - Beste - [HangmanBot](https://www.bestesaylar.com/programming-a2z)
 - 10:09 - Helen - [Easy Vote 2021](https://texaotech.wordpress.com/2020/12/14/easy-vote-2021/)
 - 10:17 - BREAK
-- 10:30 - Zeyao and Tianxu - [project title](url)
+- 10:30 - Zeyao and Tianxu - [To 100 (Non-existed) Boys I've Dated Before](https://to-100-boys-i-dated.netlify.app/)
 - 10:38 - KJ - [Text2Emoji](https://www.kyungjooha.com/post/text2emoji-4)
 - 10:46 - Lynne - [CFG Fractal Trees](https://lynneyun.github.io/A-Z_FinalProject/) & [Code Repo](https://github.com/lynneyun/A-Z_FinalProject)
 - 10:54 - Brandon - [Smart Tiles](http://brandonroots.com/2020/12/09/final-project-update-2/)
